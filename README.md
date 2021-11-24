@@ -41,7 +41,9 @@ Step 2:
 - This Exercise was split in two notebooks, one running the REST server and another the REST client.   
 - For the REST server, the module Flask was used, making it easy to create and configure an API.
 - For the REST client, the module requests was used, as in the last exercise.        
- ![ex-6-server](assets/ex-6-server.png)  ![notebooks](assets/ex-6-client.png) 
+ ![ex-6-server](assets/ex-6-server.png)  ![notebooks](assets/ex-6-client.png)
+ - For this exercise both notebooks must be open and the server one must be running before starting the client one:   
+ ![ex-6-notebooks](assets/ex-6-notebooks.png)
 
 ## [Exercise 7](src/Exercise-7/Exercise-7.ipynb)- Entity Relationship Diagram - Simple Order Manager:
 - Diagram elaborated:    
