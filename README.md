@@ -3,8 +3,8 @@ My attempt to solve some exercises from CODEX - Pre-Qualification Test (V1.11) -
 All the code was written in python using Jupyter notebooks for an easier execution.   
 # Running the exercises:
 
-## This Repository does not need to be downloaded, the primary way of executiong it is the following:
-- Click the badge below to access a virtual enviroment containing this repository (might take a little while to build).   
+## This Repository does not need to be downloaded, the primary way of executioning it is the following:
+- Click the badge below to access a virtual environment containing this repository (might take a little while to build).   
     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahendler/Codex-Test/main)
 - Browse using the left side panel to the src folder and open the desired notebook.      
 Step 1:     
@@ -15,7 +15,7 @@ Step 2:
     ![Button-restart-kernel](assets/instructions1.png)    
     ####  It is also possible to run one by one using the play button
 
-### An alternative to the previous method is to access this notebooks using google colab via this [link](https://colab.research.google.com/github/ahendler/Codex-Test). Note that some examples (as the database one) might not work since it does not build the whole repository as Binder does. In this cases, it is possible to just access the files preview here on github (using the links below) and download and run then locally if needed (Using VS Code for example).
+### An alternative to the previous method is to access this notebooks using google colab via this [link](https://colab.research.google.com/github/ahendler/Codex-Test). Note that some examples (as the database one) might not work since it does not build the whole repository as Binder does. In this cases, it is possible to just access the files preview here on github (using the links below) and download and run them locally if needed (Using VS Code for example).
     
 # Details:
 ## [Exercise 1](src/Exercise-1/Exercise-1.ipynb) - Validate CNPJ format and check digits:
