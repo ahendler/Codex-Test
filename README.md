@@ -1,6 +1,6 @@
 # Codex-Test
-My attempt to solve some exercises from CODEX - Pre-Qualification Test (V1.11) - Summer Internship
-
+My attempt to solve some exercises from CODEX - Pre-Qualification Test (V1.11) - Summer Internship    
+All the code was written in python using Jupyter notebooks for an easier execution.   
 # Running the exercises:
 
 ## This Repository does not need to be downloaded, the primary way of executiong it is the following:
@@ -15,7 +15,7 @@ Step 2:
     ![Button-restart-kernel](assets/instructions1.png)    
     ####  It is also possible to run one by one using the play button
 
-### An alternative to the previous method is to access this notebooks using google colab via this [link](https://colab.research.google.com/github/ahendler/Codex-Test). Note that some examples (as the database one) might not work since it does not build the whole repository as Binder does. In this cases, it is possible to just access the files preview here on github and download and run then locally if needed (Using VS Code for example).
+### An alternative to the previous method is to access this notebooks using google colab via this [link](https://colab.research.google.com/github/ahendler/Codex-Test). Note that some examples (as the database one) might not work since it does not build the whole repository as Binder does. In this cases, it is possible to just access the files preview here on github (using the links below) and download and run then locally if needed (Using VS Code for example).
     
 # Details:
 ## [Exercise 1](src/Exercise-1/Exercise-1.ipynb) - Validate CNPJ format and check digits:
@@ -23,17 +23,17 @@ Step 2:
 ![demo1](assets/demo.gif)
 
 ## [Exercises 2 and 3](src/Exercise-2-and-3/Exercise-2-and-3.ipynb) - Rectangles intersection and area of intersection:
-- As they deal with the same object, they were implemented in the same class as the ```intersects``` and ```areaOfIntersection``` funtions
+- As they deal with the same object, they were implemented in the same class as ```intersects``` and ```areaOfIntersection``` funtions
 - Testing output:    
 ![ex-2-3](assets/ex-2-3.png)
 
 ## [Exercise 4](src/Exercise-4/Exercise-4.ipynb) - Simple ToDo List:
-- Implemented using pandas to manage the list in the memory and a csv file for persistence. OutPut:  
+- Implemented using pandas to manage the list in the memory and a csv file for persistence. Last OutPut:  
 ![ex-4](assets/ex-4.png)
 
 ## [Exercise 5](src/Exercise-5/Exercise-5.ipynb) - Rest Client - World Clock:
 - As this is expected to be executed remotely (binder), the machine and the user might be in different timezones, as such, an aditional function to show São Paulo's time was added. 
-- Python's standart datetime module [documentation](https://docs.python.org/3/library/datetime.html) was extensively used to manage timezone transformations.    
+- Python's standart datetime module [documentation](https://docs.python.org/3/library/datetime.html) was used to manage timezone transformations.    
 ![ex-5](assets/ex-5.png)    
 ##### Note that they might still be same in some occasions
 
